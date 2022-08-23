@@ -24,6 +24,18 @@ exclude: ["node_modules/", "*.gemspec", "*.gem", "Gemfile", "Gemfile.lock", "pac
 # Set a path/url to a logo that will be displayed instead of the title
 # logo: "/assets/images/just-the-docs.png"
 
+collections:
+  how_to_rows:
+    order:
+      - drillview-1.md
+      - drillview-2.md
+      - drillview-3.md
+      - drillview-show-conjugation-1.md
+      - drillview-show-conjugation-2.md
+      - tense-selection.md
+
+# collections_dir: jz_collections
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: false

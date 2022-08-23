@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verbi - Italian
-parent: Versions
+parent: How to...
 nav_order: 4
 ---
 Verbi

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Verben - German
-parent: Versions
+parent: How to...
 nav_order: 5
 ---
 Verben

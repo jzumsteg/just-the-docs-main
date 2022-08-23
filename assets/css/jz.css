@@ -1,0 +1,24 @@
+td.iphone {
+	width: 35%;
+	border-spacing: 25px;
+	text-align: center;
+	background-color: lightgray;
+
+}
+
+
+td.ipad {
+	width:55%;
+	border-spacing: 5px;
+	text-align: center;
+	background-color: lightgray;
+}
+
+img.ipad {
+	width: 300px;
+}
+
+img.iphone {
+	width: 170px;
+	height: 300px
+}
