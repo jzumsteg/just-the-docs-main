@@ -3,6 +3,7 @@ layout: default
 title: Verbos - Spanish
 parent: How to...
 nav_order: 2
+product: verbos
 ---
 <h2>Verbos</h2>
 

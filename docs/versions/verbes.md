@@ -3,6 +3,7 @@ layout: default
 title: Verbes - French
 parent: How to...
 nav_order: 2
+product: verbes
 ---
 <h2>Verbes</h2>
 
