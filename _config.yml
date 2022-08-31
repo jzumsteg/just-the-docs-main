@@ -32,14 +32,14 @@ collections:
       - drillview-3.md
       - drillview-show-conjugation-1.md
       - drillview-show-conjugation-2.md
-      - verb-selection-1.md
-      - verb-selection-2.md
-      - verb-selection-3.md
-      - verb-selection-4.md
-      - verb-selection-5.md
-      - verb-selection-6.md
-      - verb-selection-7.md
-      - verb-selection-8.md
+      - verb-selection-01.md
+      - verb-selection-02.md
+      - verb-selection-03.md
+      - verb-selection-04.md
+      - verb-selection-05.md
+      - verb-selection-06.md
+      - verb-selection-07.md
+      - verb-selection-08.md
       - verblist-0.md
       - verblist-01.md
       - verblist-02.md
@@ -52,6 +52,17 @@ collections:
       - verblist-09.md   
       - verblist-10.md
       - verblist-11.md
+      - verblist-12.md
+      - source-select-01.md
+      - source-select-02.md
+      - source-select-03.md
+      - source-select-04.md
+      - source-select-05.md
+      - source-select-06.md
+      - source-select-07.md
+      - drill-history-01.md
+      - test-01.md
+
 # collections_dir: jz_collections
 
 # Enable or disable the site search

@@ -9,6 +9,7 @@ product: verbos
 
 {% for row in site.how_to_rows %}
 {{row.content | replace: "xx-product-xx", "Verbos"}}
+<em>title: {{ row.title }}</em>
 
 {%- if row.screenshot %}
 {% capture iphoneStr %} {{"/assets/images/verbos/iPhone/"| prepend: site.baseurl | prepend: site.url}}{{ row.screenshot  }}.png {% endcapture %}
