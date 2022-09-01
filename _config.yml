@@ -61,8 +61,23 @@ collections:
       - source-select-06.md
       - source-select-07.md
       - drill-history-01.md
-      - test-01.md
-
+      - test-01.md    
+      - test-02.md
+      - test-03.md
+      - test-04.md
+      - test-05.md
+      - test-06.md
+      - test-07.md
+      - test-08.md
+      - test-09.md
+      - test-10.md
+      - test-11.md
+      - test-12.md
+      - test-13.md
+      - test-14.md
+      - auto-01.md
+      - auto-02.md
+      - auto-03.md
 # collections_dir: jz_collections
 
 # Enable or disable the site search
