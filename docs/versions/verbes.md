@@ -4,7 +4,10 @@ title: Verbes - French
 parent: How to...
 nav_order: 2
 product: verbes
+toc: true
 ---
+
+
 <h2>Verbes</h2>
 
 {% for row in site.how_to_rows %}
