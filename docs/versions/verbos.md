@@ -9,7 +9,7 @@ product: verbos
 
 <h2>Verbos</h2>
 
-{% for row in site.how_to_rows %}
+{% for row in site.how_to_rows | sort: "order" %}
 {{row.content | replace: "xx-product-xx", "Verbos"}}
 <em>title: {{ row.title }}</em>
 
